@@ -1,3 +1,4 @@
+#https://towardsdatascience.com/basics-of-image-classification-with-keras-43779a299c8b
 import keras
 from keras.datasets import mnist
 from keras.layers import Dense
